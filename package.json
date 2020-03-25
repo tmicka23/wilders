@@ -1,0 +1,27 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "just a little project that print wilders name in some colors !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmicka23/wilders.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "introduction"
+  ],
+  "author": "tmicka23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmicka23/wilders/issues"
+  },
+  "homepage": "https://github.com/tmicka23/wilders#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
