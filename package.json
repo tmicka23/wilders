@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ./index.js"
+    "dev": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/tmicka23/wilders#readme",
   "dependencies": {
     "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
